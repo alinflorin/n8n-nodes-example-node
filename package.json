@@ -1,7 +1,7 @@
 {
   "name": "@alinflorin/n8n-nodes-example-node",
   "version": "0.0.1",
-  "description": "",
+  "description": "N8N node for working with example",
   "keywords": [
     "n8n-community-node-package"
   ],
