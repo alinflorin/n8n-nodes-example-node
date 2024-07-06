@@ -21,5 +21,3 @@ jobs:
       id-token: write
     uses: alinflorin/github-actions/.github/workflows/js_lib.yaml@main
     secrets: inherit
-    with:
-      version: '0.0.${{ github.run_number }}'
