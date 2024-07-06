@@ -19,7 +19,7 @@ jobs:
       contents: read
       packages: write
       id-token: write
-    uses: alinflorin/github-actions/.github/workflows/js_lib.yaml@main
+    uses: alinflorin/github-actions/.github/workflows/n8n.yaml@main
     secrets: inherit
     with:
       version: '0.0.${{ github.run_number }}'
