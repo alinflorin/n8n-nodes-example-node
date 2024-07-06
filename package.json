@@ -2,6 +2,10 @@
   "name": "@alinflorin/n8n-nodes-example-node",
   "version": "0.0.1",
   "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "description": "N8N node for working with example",
   "keywords": [
     "n8n-community-node-package"
